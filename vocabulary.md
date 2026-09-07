@@ -6,3 +6,4 @@
 - Emit
 - Under-tested
 - Informative
+- Provably
