@@ -5,3 +5,4 @@
 - Routine
 - Emit
 - Under-tested
+- Informative
