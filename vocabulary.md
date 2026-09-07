@@ -8,3 +8,4 @@
 - Informative
 - Provably
 - Genuine
+- Rigor
