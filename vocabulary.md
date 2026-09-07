@@ -1,7 +1,7 @@
 - plausibilistic
-- stash
+- Stash
 - Boundless
 - Deadbolt
 - Routine
-- emit
+- Emit
 - Under-tested
