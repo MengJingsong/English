@@ -167,3 +167,7 @@ FORMAT RULES:
 - pay off
 - take shape
 - start from scratch
+- bandwidth
+- take ownership of
+- take over
+- hand off
