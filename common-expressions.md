@@ -179,3 +179,8 @@ FORMAT RULES:
 - step through
 - zoom in on
 - zoom out
+- bite off more than you can chew
+- take the lead on
+- own something
+- raise a red flag
+- point out
