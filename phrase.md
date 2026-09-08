@@ -27,3 +27,4 @@ FORMAT RULES:
 - It's not rocket science
 - Keep me posted
 - Jump the gun
+- You have my word
