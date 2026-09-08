@@ -22,3 +22,4 @@ FORMAT RULES:
 - What's the catch?
 - Just my luck
 - Out of the blue
+- It's on the house
