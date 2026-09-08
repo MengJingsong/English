@@ -21,3 +21,4 @@ FORMAT RULES:
 - Tell me about it
 - What's the catch?
 - Just my luck
+- Out of the blue
