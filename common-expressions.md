@@ -72,3 +72,6 @@ FORMAT RULES:
 - clamp
 - leak through
 - hold up under
+- spike
+- overshoot
+- reclaim
