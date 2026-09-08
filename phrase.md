@@ -43,3 +43,4 @@ FORMAT RULES:
 - Put it on hold
 - Ad hoc
 - Post hoc
+- Pull one's weight
