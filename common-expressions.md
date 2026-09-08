@@ -23,3 +23,7 @@ FORMAT RULES:
 - trade-off
 - at the cost of
 - end up
+- bring up
+- line up with
+- hold up
+- run into
