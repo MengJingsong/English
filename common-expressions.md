@@ -137,3 +137,8 @@ FORMAT RULES:
 - report back
 - check in
 - keep someone posted
+- touch base
+- sync up
+- get someone up to speed
+- on the same page
+- loop someone in
