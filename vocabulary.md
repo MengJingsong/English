@@ -20,3 +20,4 @@ FORMAT RULES:
 - Fidelity
 - Overshoot
 - Backfill
+- Pedagogical
