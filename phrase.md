@@ -32,3 +32,4 @@ FORMAT RULES:
 - Cut to the chase
 - You're spot on
 - It's a steal
+- I'm out of words
