@@ -33,3 +33,18 @@ FORMAT RULES:
 - phase out
 - stem from
 - carry over
+- rule of thumb
+- under the hood
+- hook into
+- spin up
+- tear down
+- ramp up
+- scale up
+- top out at
+- level off
+- creep up
+- pile up
+- drain
+- back up
+- catch up
+- die down
