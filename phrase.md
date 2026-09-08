@@ -44,3 +44,4 @@ FORMAT RULES:
 - Ad hoc
 - Post hoc
 - Pull one's weight
+- Do one's fair share
