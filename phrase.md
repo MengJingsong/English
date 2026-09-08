@@ -28,3 +28,4 @@ FORMAT RULES:
 - Keep me posted
 - Jump the gun
 - You have my word
+- Hit the nail on the head
