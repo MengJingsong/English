@@ -110,3 +110,7 @@ FORMAT RULES:
 - rationale
 - motivation behind
 - intuition
+- the key thing to notice
+- main takeaway
+- bottom line
+- put it all together
