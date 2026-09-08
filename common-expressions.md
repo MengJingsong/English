@@ -105,3 +105,8 @@ FORMAT RULES:
 - nice-to-have
 - must-have
 - time-sensitive
+- trade X for Y
+- come at the cost of
+- rationale
+- motivation behind
+- intuition
