@@ -41,3 +41,5 @@ FORMAT RULES:
 - In the loop
 - Not in the loop
 - Put it on hold
+- Ad hoc
+- Post hoc
