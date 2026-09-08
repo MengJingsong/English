@@ -120,3 +120,8 @@ FORMAT RULES:
 - brittle
 - fail silently
 - hang
+- roll back
+- plug in
+- rip out
+- factor out
+- stub out
