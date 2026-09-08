@@ -91,3 +91,4 @@ FORMAT RULES:
 - feed into
 - cap
 - gate
+- hot path
