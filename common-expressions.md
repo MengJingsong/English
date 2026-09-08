@@ -101,3 +101,7 @@ FORMAT RULES:
 - table something
 - park something
 - go down a rabbit hole
+- prioritize
+- nice-to-have
+- must-have
+- time-sensitive
