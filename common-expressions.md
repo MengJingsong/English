@@ -79,3 +79,6 @@ FORMAT RULES:
 - sidestep
 - loosen
 - tighten
+- line up
+- match up
+- cross-check
