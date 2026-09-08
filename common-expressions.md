@@ -151,3 +151,6 @@ FORMAT RULES:
 - gain traction
 - hit a roadblock
 - get back on track
+- overhead
+- footprint
+- heavyweight
