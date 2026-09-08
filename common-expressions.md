@@ -10,3 +10,16 @@ FORMAT RULES:
 - workaround
 - sanity check
 - edge case
+- flesh out
+- iron out
+- tease apart
+- account for
+- build on
+- follow up on
+- kick in
+- fall back to
+- get around
+- come down to
+- trade-off
+- at the cost of
+- end up
