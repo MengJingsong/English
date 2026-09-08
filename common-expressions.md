@@ -134,3 +134,6 @@ FORMAT RULES:
 - boilerplate
 - relax an assumption
 - end-to-end
+- report back
+- check in
+- keep someone posted
