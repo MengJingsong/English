@@ -38,3 +38,5 @@ FORMAT RULES:
 - That's way over my head
 - Beat around the bush
 - Push one's luck
+- In the loop
+- Not in the loop
