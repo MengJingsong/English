@@ -9,3 +9,4 @@ FORMAT RULES:
 - Silently overshoot
 - Terse aims
 - Flush to drain
+- There is enough to go around
