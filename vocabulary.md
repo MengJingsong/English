@@ -21,3 +21,4 @@ FORMAT RULES:
 - Overshoot
 - Backfill
 - Pedagogical
+- Vague
