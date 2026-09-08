@@ -118,3 +118,5 @@ FORMAT RULES:
 - noisy
 - flaky
 - brittle
+- fail silently
+- hang
