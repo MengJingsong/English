@@ -29,3 +29,4 @@ FORMAT RULES:
 - Jump the gun
 - You have my word
 - Hit the nail on the head
+- Cut to the chase
