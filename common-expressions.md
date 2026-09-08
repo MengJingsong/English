@@ -75,3 +75,7 @@ FORMAT RULES:
 - spike
 - overshoot
 - reclaim
+- headroom
+- sidestep
+- loosen
+- tighten
