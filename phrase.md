@@ -34,3 +34,4 @@ FORMAT RULES:
 - It's a steal
 - I'm out of words
 - It's a tough call
+- Spot on
