@@ -56,3 +56,13 @@ FORMAT RULES:
 - bump up
 - cap at
 - bottom out
+- short-circuit
+- bubble up
+- swallow an exception
+- guard against
+- kick off
+- fire off
+- fan out
+- wire up
+- expose
+- surface
