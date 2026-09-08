@@ -142,3 +142,7 @@ FORMAT RULES:
 - get someone up to speed
 - on the same page
 - loop someone in
+- hash out
+- pencil something in
+- block off time
+- play it by ear
