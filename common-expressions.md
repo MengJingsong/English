@@ -154,3 +154,4 @@ FORMAT RULES:
 - overhead
 - footprint
 - heavyweight
+- amortize
