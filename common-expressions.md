@@ -48,3 +48,11 @@ FORMAT RULES:
 - back up
 - catch up
 - die down
+- blow up
+- choke on
+- bog down
+- eat up
+- flush out
+- bump up
+- cap at
+- bottom out
