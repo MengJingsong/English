@@ -88,3 +88,6 @@ FORMAT RULES:
 - nail down
 - what seems to be happening is
 - this suggests that
+- feed into
+- cap
+- gate
