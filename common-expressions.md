@@ -146,3 +146,8 @@ FORMAT RULES:
 - pencil something in
 - block off time
 - play it by ear
+- get the ball rolling
+- get something off the ground
+- gain traction
+- hit a roadblock
+- get back on track
