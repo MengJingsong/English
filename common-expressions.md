@@ -27,3 +27,9 @@ FORMAT RULES:
 - line up with
 - hold up
 - run into
+- poke around
+- swap out
+- roll out
+- phase out
+- stem from
+- carry over
