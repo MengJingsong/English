@@ -128,3 +128,7 @@ FORMAT RULES:
 - mock out
 - layer on
 - piggyback on
+- smoke test
+- hack
+- plumbing
+- boilerplate
