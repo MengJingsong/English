@@ -28,3 +28,4 @@ FORMAT RULES:
 - Footprint
 - Crunch
 - Vacation
+- Inert
