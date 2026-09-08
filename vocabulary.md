@@ -25,3 +25,4 @@ FORMAT RULES:
 - Bounces
 - Backticks
 - Hedging
+- Footprint
