@@ -30,3 +30,4 @@ FORMAT RULES:
 - You have my word
 - Hit the nail on the head
 - Cut to the chase
+- You're spot on
