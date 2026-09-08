@@ -26,3 +26,4 @@ FORMAT RULES:
 - I'm in hot water
 - It's not rocket science
 - Keep me posted
+- Jump the gun
