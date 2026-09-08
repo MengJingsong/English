@@ -125,3 +125,6 @@ FORMAT RULES:
 - rip out
 - factor out
 - stub out
+- mock out
+- layer on
+- piggyback on
