@@ -203,3 +203,7 @@ FORMAT RULES:
 - get a handle on
 - get a sense of
 - have a rough idea of
+- commit to
+- lean toward
+- lay out
+- walk through
