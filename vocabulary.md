@@ -26,3 +26,4 @@ FORMAT RULES:
 - Backticks
 - Hedging
 - Footprint
+- Crunch
