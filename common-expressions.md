@@ -164,3 +164,6 @@ FORMAT RULES:
 - keep an eye on
 - up in the air
 - set in stone
+- pay off
+- take shape
+- start from scratch
