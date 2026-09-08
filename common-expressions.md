@@ -184,3 +184,12 @@ FORMAT RULES:
 - own something
 - raise a red flag
 - point out
+- hold true
+- carry over to
+- generalize to
+- be consistent with
+- wash out
+- average out
+- level out
+- flatten out
+- taper off
