@@ -27,3 +27,4 @@ FORMAT RULES:
 - Hedging
 - Footprint
 - Crunch
+- Vacation
