@@ -157,3 +157,6 @@ FORMAT RULES:
 - amortize
 - come into play
 - hinge on
+- shed light on
+- give rise to
+- play a role in
