@@ -176,3 +176,6 @@ FORMAT RULES:
 - catch up on
 - ahead of schedule
 - behind schedule
+- step through
+- zoom in on
+- zoom out
