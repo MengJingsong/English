@@ -31,3 +31,4 @@ FORMAT RULES:
 - Hit the nail on the head
 - Cut to the chase
 - You're spot on
+- It's a steal
