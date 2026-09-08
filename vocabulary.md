@@ -24,3 +24,4 @@ FORMAT RULES:
 - Vague
 - Bounces
 - Backticks
+- Hedging
