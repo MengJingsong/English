@@ -11,3 +11,4 @@
 - Rigor
 - Ballgame
 - Reclaim
+- Fidelity
