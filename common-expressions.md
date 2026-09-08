@@ -114,3 +114,7 @@ FORMAT RULES:
 - main takeaway
 - bottom line
 - put it all together
+- counterintuitive
+- noisy
+- flaky
+- brittle
