@@ -193,3 +193,13 @@ FORMAT RULES:
 - level out
 - flatten out
 - taper off
+- bottleneck on
+- fall back on
+- opt into
+- opt out of
+- phase in
+- take a stab at
+- give it a shot
+- get a handle on
+- get a sense of
+- have a rough idea of
