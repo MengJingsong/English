@@ -155,3 +155,5 @@ FORMAT RULES:
 - footprint
 - heavyweight
 - amortize
+- come into play
+- hinge on
