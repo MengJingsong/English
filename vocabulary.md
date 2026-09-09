@@ -30,3 +30,4 @@ FORMAT RULES:
 - Vacation
 - Inert
 - Under-provisioned
+- Hinge
