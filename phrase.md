@@ -49,3 +49,4 @@ FORMAT RULES:
 - Cut in line
 - On the dot
 - Case-specific
+- With no aggregate memory cap tied to `memtable_heap_space`
