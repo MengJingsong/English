@@ -47,3 +47,4 @@ FORMAT RULES:
 - Do one's fair share
 - Jump the queue
 - Cut in line
+- On the dot
