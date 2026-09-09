@@ -31,3 +31,4 @@ FORMAT RULES:
 - Inert
 - Under-provisioned
 - Hinge
+- Self-containment
