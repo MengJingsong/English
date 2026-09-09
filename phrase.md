@@ -48,3 +48,4 @@ FORMAT RULES:
 - Jump the queue
 - Cut in line
 - On the dot
+- Case-specific
