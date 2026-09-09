@@ -50,3 +50,4 @@ FORMAT RULES:
 - On the dot
 - Case-specific
 - With no aggregate memory cap tied to `memtable_heap_space`
+- The orchestrator pool is also sized `flushWriters`
