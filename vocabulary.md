@@ -33,3 +33,4 @@ FORMAT RULES:
 - Hinge
 - Self-containment
 - Caffeine
+- Upshot
