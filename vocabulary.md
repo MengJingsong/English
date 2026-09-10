@@ -32,3 +32,4 @@ FORMAT RULES:
 - Under-provisioned
 - Hinge
 - Self-containment
+- Caffeine
