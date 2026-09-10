@@ -34,3 +34,4 @@ FORMAT RULES:
 - Self-containment
 - Caffeine
 - Upshot
+- Tally
