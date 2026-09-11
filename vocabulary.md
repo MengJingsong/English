@@ -36,3 +36,4 @@ FORMAT RULES:
 - Upshot
 - Tally
 - Proliferation
+- Wrinkle
