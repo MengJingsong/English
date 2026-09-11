@@ -35,3 +35,4 @@ FORMAT RULES:
 - Caffeine
 - Upshot
 - Tally
+- Proliferation
