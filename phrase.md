@@ -57,3 +57,4 @@ FORMAT RULES:
 - Crash out
 - Keep around
 - Key off
+- De facto
