@@ -7,3 +7,4 @@ FORMAT RULES:
 - One step/hop short of
 - Not a single X but a cluster of Y that all meet at the same Z
 - This is X kicking in before Y
+- Whether X is doing Y
