@@ -40,3 +40,4 @@ FORMAT RULES:
 - Hygiene
 - Wheezing
 - Steroids
+- Boilerplate
