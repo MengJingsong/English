@@ -50,3 +50,4 @@ FORMAT RULES:
 - Precedes
 - Churn
 - Accounting
+- Load-bearing
