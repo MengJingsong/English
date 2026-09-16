@@ -45,3 +45,4 @@ FORMAT RULES:
 - Dangle
 - Dangling
 - Provision
+- Anaphylactic
