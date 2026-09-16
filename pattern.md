@@ -8,3 +8,4 @@ FORMAT RULES:
 - Not a single X but a cluster of Y that all meet at the same Z
 - This is X kicking in before Y
 - Whether X is doing Y
+- X must wait out Y rather than deadlock on Y
