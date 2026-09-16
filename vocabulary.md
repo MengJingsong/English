@@ -41,3 +41,4 @@ FORMAT RULES:
 - Wheezing
 - Steroids
 - Boilerplate
+- Terse
