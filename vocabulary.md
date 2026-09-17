@@ -51,3 +51,4 @@ FORMAT RULES:
 - Churn
 - Accounting
 - Load-bearing
+- Multiplicity
