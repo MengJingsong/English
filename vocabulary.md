@@ -54,3 +54,4 @@ FORMAT RULES:
 - Multiplicity
 - Arguably
 - Idempotent
+- Scaffold
