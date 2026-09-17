@@ -53,3 +53,4 @@ FORMAT RULES:
 - Load-bearing
 - Multiplicity
 - Arguably
+- Idempotent
