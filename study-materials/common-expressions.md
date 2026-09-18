@@ -1,0 +1,210 @@
+<!--
+FORMAT RULES:
+- One vocabulary/phrase/pattern/sentence item per line
+- Every item starts with "- "
+-->
+- rule out
+- pin down
+- dig into
+- trace through
+- workaround
+- sanity check
+- edge case
+- flesh out
+- iron out
+- tease apart
+- account for
+- build on
+- follow up on
+- kick in
+- fall back to
+- get around
+- come down to
+- trade-off
+- at the cost of
+- end up
+- bring up
+- line up with
+- hold up
+- run into
+- poke around
+- swap out
+- roll out
+- phase out
+- stem from
+- carry over
+- rule of thumb
+- under the hood
+- hook into
+- spin up
+- tear down
+- ramp up
+- scale up
+- top out at
+- level off
+- creep up
+- pile up
+- drain
+- back up
+- catch up
+- die down
+- blow up
+- choke on
+- bog down
+- eat up
+- flush out
+- bump up
+- cap at
+- bottom out
+- short-circuit
+- bubble up
+- swallow an exception
+- guard against
+- kick off
+- fire off
+- fan out
+- wire up
+- expose
+- surface
+- max out
+- throttle
+- back off
+- clamp
+- leak through
+- hold up under
+- spike
+- overshoot
+- reclaim
+- headroom
+- sidestep
+- loosen
+- tighten
+- line up
+- match up
+- cross-check
+- make some headway
+- circle back to
+- wrap up
+- nail down
+- what seems to be happening is
+- this suggests that
+- feed into
+- cap
+- gate
+- hot path
+- culprit
+- breaking point
+- I'm not following
+- I'm not sure that's necessarily the case
+- subtle difference
+- jump in
+- table something
+- park something
+- go down a rabbit hole
+- prioritize
+- nice-to-have
+- must-have
+- time-sensitive
+- trade X for Y
+- come at the cost of
+- rationale
+- motivation behind
+- intuition
+- the key thing to notice
+- main takeaway
+- bottom line
+- put it all together
+- counterintuitive
+- noisy
+- flaky
+- brittle
+- fail silently
+- hang
+- roll back
+- plug in
+- rip out
+- factor out
+- stub out
+- mock out
+- layer on
+- piggyback on
+- smoke test
+- hack
+- plumbing
+- boilerplate
+- relax an assumption
+- end-to-end
+- report back
+- check in
+- keep someone posted
+- touch base
+- sync up
+- get someone up to speed
+- on the same page
+- loop someone in
+- hash out
+- pencil something in
+- block off time
+- play it by ear
+- get the ball rolling
+- get something off the ground
+- gain traction
+- hit a roadblock
+- get back on track
+- overhead
+- footprint
+- heavyweight
+- amortize
+- come into play
+- hinge on
+- shed light on
+- give rise to
+- play a role in
+- flag something
+- keep an eye on
+- up in the air
+- set in stone
+- pay off
+- take shape
+- start from scratch
+- bandwidth
+- take ownership of
+- take over
+- hand off
+- on track
+- fall behind
+- catch up on
+- ahead of schedule
+- behind schedule
+- step through
+- zoom in on
+- zoom out
+- bite off more than you can chew
+- take the lead on
+- own something
+- raise a red flag
+- point out
+- hold true
+- carry over to
+- generalize to
+- be consistent with
+- wash out
+- average out
+- level out
+- flatten out
+- taper off
+- bottleneck on
+- fall back on
+- opt into
+- opt out of
+- phase in
+- take a stab at
+- give it a shot
+- get a handle on
+- get a sense of
+- have a rough idea of
+- commit to
+- lean toward
+- lay out
+- walk through
+- be driven by
