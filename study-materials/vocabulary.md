@@ -56,3 +56,4 @@ FORMAT RULES:
 - Idempotent
 - Scaffold
 - Triage
+- Precedent
