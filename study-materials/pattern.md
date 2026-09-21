@@ -11,3 +11,4 @@ FORMAT RULES:
 - X must wait out Y rather than deadlock on Y
 - It's less X and more Y
 - X instead of Y
+- X whose outcome differs for Y
