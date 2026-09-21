@@ -13,3 +13,4 @@ FORMAT RULES:
 - X instead of Y
 - X whose outcome differs for Y
 - X can be A, B, C, or at least D
+- X can't see Y written as Z
