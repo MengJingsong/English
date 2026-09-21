@@ -57,3 +57,4 @@ FORMAT RULES:
 - Scaffold
 - Triage
 - Precedent
+- Verdict
