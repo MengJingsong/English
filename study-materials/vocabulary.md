@@ -63,3 +63,5 @@ FORMAT RULES:
 - Gradescope
 - Supplement
 - Granola
+- Adapt
+- Adopt
