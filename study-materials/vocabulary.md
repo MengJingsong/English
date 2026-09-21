@@ -59,3 +59,4 @@ FORMAT RULES:
 - Precedent
 - Verdict
 - Provenance
+- Tier
