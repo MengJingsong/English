@@ -67,3 +67,5 @@ FORMAT RULES:
 - Bump into
 - On loan
 - Tiered Approach
+- Flesh out
+- Nail down
