@@ -15,3 +15,4 @@ FORMAT RULES:
 - X can be A, B, C, or at least D
 - X can't see Y written as Z
 - X may arrive as Y, so add Z that follows one level up
+- I would not X yet
