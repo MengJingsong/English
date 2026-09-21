@@ -60,3 +60,4 @@ FORMAT RULES:
 - Verdict
 - Provenance
 - Tier
+- Gradescope
