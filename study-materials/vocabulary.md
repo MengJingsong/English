@@ -62,3 +62,4 @@ FORMAT RULES:
 - Tier
 - Gradescope
 - Supplement
+- Granola
