@@ -61,3 +61,4 @@ FORMAT RULES:
 - Provenance
 - Tier
 - Gradescope
+- Supplement
