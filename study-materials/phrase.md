@@ -65,3 +65,4 @@ FORMAT RULES:
 - Push back on
 - Runner-up
 - Bump into
+- On loan
