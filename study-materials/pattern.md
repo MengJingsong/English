@@ -12,3 +12,4 @@ FORMAT RULES:
 - It's less X and more Y
 - X instead of Y
 - X whose outcome differs for Y
+- X can be A, B, C, or at least D
