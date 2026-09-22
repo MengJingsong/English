@@ -24,3 +24,5 @@ FORMAT RULES:
 - X is separate from Y
 - X is in scope now
 - X needs A rather than B, so I'd treat it as C
+- X structurally could not surface Y
+- That alone suggests X was worth Y before A rather than after
