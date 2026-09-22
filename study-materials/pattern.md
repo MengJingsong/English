@@ -19,3 +19,4 @@ FORMAT RULES:
 - X is only meaningful pinned to Y
 - Without X, Y can't tell whether A predates or postdates B
 - I'd suggest X listing Y
+- I'd tighten X one notch
