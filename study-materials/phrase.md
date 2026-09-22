@@ -72,3 +72,4 @@ FORMAT RULES:
 - Filter in
 - Filter out
 - Highest Value-per-effort Fix
+- Among the First Magnitude Rows
