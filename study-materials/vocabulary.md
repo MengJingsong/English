@@ -67,3 +67,4 @@ FORMAT RULES:
 - Adopt
 - Caveat
 - Notch
+- Triplicated
