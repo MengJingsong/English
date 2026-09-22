@@ -33,3 +33,6 @@ FORMAT RULES:
 - X clears a big share immediately
 - X is a property of Y, not of Z
 - The unit of work is X
+- I could not independently X with the tools I have here
+- X is consistent with what's documented in Y
+- X came from Y, not from anything I re-derived
