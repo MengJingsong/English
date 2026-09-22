@@ -31,3 +31,5 @@ FORMAT RULES:
 - X judges each Y once and applies the verdict to all its Z
 - The actual work is A, not B
 - X clears a big share immediately
+- X is a property of Y, not of Z
+- The unit of work is X
