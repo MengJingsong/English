@@ -73,3 +73,4 @@ FORMAT RULES:
 - Lexical
 - Fragmentary
 - Grep
+- Rubric
