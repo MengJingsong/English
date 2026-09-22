@@ -70,3 +70,4 @@ FORMAT RULES:
 - Triplicated
 - Lump
 - Reconcile
+- Lexical
