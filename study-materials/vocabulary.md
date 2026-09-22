@@ -68,3 +68,4 @@ FORMAT RULES:
 - Caveat
 - Notch
 - Triplicated
+- Lump
