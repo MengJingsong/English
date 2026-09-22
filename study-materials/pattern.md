@@ -21,3 +21,6 @@ FORMAT RULES:
 - I'd suggest X listing Y
 - I'd tighten X one notch
 - Make X harder than it needs to be
+- X is separate from Y
+- X is in scope now
+- X needs A rather than B, so I'd treat it as C
