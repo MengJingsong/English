@@ -37,3 +37,6 @@ FORMAT RULES:
 - X is consistent with what's documented in Y
 - X came from Y, not from anything I re-derived
 - X should rank far more than it rejects
+- X is reserved for Y
+- X is split into A and B
+- X fully determines Y
