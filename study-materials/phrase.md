@@ -73,3 +73,4 @@ FORMAT RULES:
 - Filter out
 - Highest Value-per-effort Fix
 - Among the First Magnitude Rows
+- Judge-the-helper-once
