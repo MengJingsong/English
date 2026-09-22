@@ -65,3 +65,4 @@ FORMAT RULES:
 - Granola
 - Adapt
 - Adopt
+- Caveat
