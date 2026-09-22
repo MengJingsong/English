@@ -69,3 +69,5 @@ FORMAT RULES:
 - Tiered Approach
 - Flesh out
 - Nail down
+- Filter in
+- Filter out
