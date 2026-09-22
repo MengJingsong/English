@@ -20,3 +20,4 @@ FORMAT RULES:
 - Without X, Y can't tell whether A predates or postdates B
 - I'd suggest X listing Y
 - I'd tighten X one notch
+- Make X harder than it needs to be
