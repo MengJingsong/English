@@ -66,3 +66,4 @@ FORMAT RULES:
 - Adapt
 - Adopt
 - Caveat
+- Notch
