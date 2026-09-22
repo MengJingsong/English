@@ -16,3 +16,6 @@ FORMAT RULES:
 - X can't see Y written as Z
 - X may arrive as Y, so add Z that follows one level up
 - I would not X yet
+- X is only meaningful pinned to Y
+- Without X, Y can't tell whether A predates or postdates B
+- I'd suggest X listing Y
