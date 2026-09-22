@@ -36,3 +36,4 @@ FORMAT RULES:
 - I could not independently X with the tools I have here
 - X is consistent with what's documented in Y
 - X came from Y, not from anything I re-derived
+- X should rank far more than it rejects
