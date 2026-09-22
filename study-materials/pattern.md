@@ -26,3 +26,8 @@ FORMAT RULES:
 - X needs A rather than B, so I'd treat it as C
 - X structurally could not surface Y
 - That alone suggests X was worth Y before A rather than after
+- X found real signal
+- The important number is that X
+- X judges each Y once and applies the verdict to all its Z
+- The actual work is A, not B
+- X clears a big share immediately
