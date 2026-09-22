@@ -75,3 +75,4 @@ FORMAT RULES:
 - Among the First Magnitude Rows
 - Judge-the-helper-once
 - On the Risks
+- Cheap Funnel
