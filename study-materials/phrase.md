@@ -76,3 +76,4 @@ FORMAT RULES:
 - Judge-the-helper-once
 - On the Risks
 - Cheap Funnel
+- Side-agnostic
