@@ -71,3 +71,4 @@ FORMAT RULES:
 - Lump
 - Reconcile
 - Lexical
+- Fragmentary
