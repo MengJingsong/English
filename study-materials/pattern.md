@@ -47,3 +47,4 @@ FORMAT RULES:
 - The risk of X is that Y
 - X implies Y
 - Record X as Y on every Z
+- This is the one place X could Y
