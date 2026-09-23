@@ -80,3 +80,4 @@ FORMAT RULES:
 - Cut across
 - Kebab-case Convention
 - In Prose
+- Define the ladder by rigor instead
