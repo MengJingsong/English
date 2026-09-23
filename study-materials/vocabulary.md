@@ -80,3 +80,4 @@ FORMAT RULES:
 - Lengthened
 - Denominator
 - Demote
+- Conflate
