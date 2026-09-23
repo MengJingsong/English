@@ -79,3 +79,4 @@ FORMAT RULES:
 - Internalizing
 - Lengthened
 - Denominator
+- Demote
