@@ -82,3 +82,4 @@ FORMAT RULES:
 - In Prose
 - Define the ladder by rigor instead
 - For good
+- Read cold
