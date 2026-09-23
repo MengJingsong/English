@@ -41,3 +41,4 @@ FORMAT RULES:
 - X is split into A and B
 - X fully determines Y
 - X usually decides before Y matters
+- X overlaps Y
