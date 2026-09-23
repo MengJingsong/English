@@ -78,3 +78,4 @@ FORMAT RULES:
 - Cheap Funnel
 - Side-agnostic
 - Cut across
+- Kebab-case Convention
