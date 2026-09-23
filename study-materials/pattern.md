@@ -50,3 +50,4 @@ FORMAT RULES:
 - This is the one place X could Y
 - X keys off Y
 - A for X, B for Y
+- Want me to draft X plus Y for your review?
