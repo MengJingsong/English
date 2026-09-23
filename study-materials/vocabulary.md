@@ -74,3 +74,4 @@ FORMAT RULES:
 - Fragmentary
 - Grep
 - Rubric
+- Dedupe
