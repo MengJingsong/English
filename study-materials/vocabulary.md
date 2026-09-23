@@ -82,3 +82,4 @@ FORMAT RULES:
 - Demote
 - Conflate
 - Corroboration
+- Scaffolding
