@@ -79,3 +79,4 @@ FORMAT RULES:
 - Side-agnostic
 - Cut across
 - Kebab-case Convention
+- In Prose
