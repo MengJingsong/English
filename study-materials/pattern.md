@@ -51,3 +51,6 @@ FORMAT RULES:
 - X keys off Y
 - A for X, B for Y
 - Want me to draft X plus Y for your review?
+- X creates Y pressure against Z
+- Numbering something X invites Y
+- X shouldn't get trimmed later
