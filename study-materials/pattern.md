@@ -46,3 +46,4 @@ FORMAT RULES:
 - Make X mean A, not B
 - The risk of X is that Y
 - X implies Y
+- Record X as Y on every Z
