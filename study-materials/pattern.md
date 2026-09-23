@@ -42,3 +42,4 @@ FORMAT RULES:
 - X fully determines Y
 - X usually decides before Y matters
 - X overlaps Y
+- X is more Y than you're pitching it as
