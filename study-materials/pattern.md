@@ -54,3 +54,4 @@ FORMAT RULES:
 - X creates Y pressure against Z
 - Numbering something X invites Y
 - X shouldn't get trimmed later
+- X has no consumer now that Y is out of scope
