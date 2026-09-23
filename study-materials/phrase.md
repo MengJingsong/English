@@ -77,3 +77,4 @@ FORMAT RULES:
 - On the Risks
 - Cheap Funnel
 - Side-agnostic
+- Cut across
