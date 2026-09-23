@@ -81,3 +81,4 @@ FORMAT RULES:
 - Kebab-case Convention
 - In Prose
 - Define the ladder by rigor instead
+- For good
