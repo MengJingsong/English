@@ -76,3 +76,4 @@ FORMAT RULES:
 - Rubric
 - Dedupe
 - Magnitude
+- Internalizing
