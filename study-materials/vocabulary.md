@@ -75,3 +75,4 @@ FORMAT RULES:
 - Grep
 - Rubric
 - Dedupe
+- Magnitude
