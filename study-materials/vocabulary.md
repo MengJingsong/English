@@ -78,3 +78,4 @@ FORMAT RULES:
 - Magnitude
 - Internalizing
 - Lengthened
+- Denominator
