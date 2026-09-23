@@ -48,3 +48,5 @@ FORMAT RULES:
 - X implies Y
 - Record X as Y on every Z
 - This is the one place X could Y
+- X keys off Y
+- A for X, B for Y
