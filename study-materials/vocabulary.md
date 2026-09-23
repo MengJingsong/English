@@ -77,3 +77,4 @@ FORMAT RULES:
 - Dedupe
 - Magnitude
 - Internalizing
+- Lengthened
