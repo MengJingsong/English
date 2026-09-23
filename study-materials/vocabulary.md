@@ -81,3 +81,4 @@ FORMAT RULES:
 - Denominator
 - Demote
 - Conflate
+- Corroboration
