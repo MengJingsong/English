@@ -84,3 +84,4 @@ FORMAT RULES:
 - Corroboration
 - Scaffolding
 - Ledger
+- Outstanding
