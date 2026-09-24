@@ -83,3 +83,4 @@ FORMAT RULES:
 - Define the ladder by rigor instead
 - For good
 - Read cold
+- Settle in
