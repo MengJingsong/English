@@ -56,3 +56,4 @@ FORMAT RULES:
 - X shouldn't get trimmed later
 - X has no consumer now that Y is out of scope
 - With a best-effort X for each Y, plus A/B/C
+- Two gaps this exposes, one of which is X
