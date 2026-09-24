@@ -85,3 +85,4 @@ FORMAT RULES:
 - Scaffolding
 - Ledger
 - Outstanding
+- Outright
