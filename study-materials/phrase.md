@@ -86,3 +86,4 @@ FORMAT RULES:
 - Settle in
 - Cut in through
 - Dose-response expectation
+- Money shot
