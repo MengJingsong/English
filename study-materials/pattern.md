@@ -58,3 +58,4 @@ FORMAT RULES:
 - With a best-effort X for each Y, plus A/B/C
 - Two gaps this exposes, one of which is X
 - Instrument X, not Y
+- X will break on exactly the cases that matter most
