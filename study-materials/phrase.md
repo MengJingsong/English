@@ -85,3 +85,4 @@ FORMAT RULES:
 - Read cold
 - Settle in
 - Cut in through
+- Dose-response expectation
