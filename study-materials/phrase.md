@@ -88,3 +88,4 @@ FORMAT RULES:
 - Dose-response expectation
 - Money shot
 - Resting metabolic rate
+- In stale
