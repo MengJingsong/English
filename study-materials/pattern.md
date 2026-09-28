@@ -64,3 +64,4 @@ FORMAT RULES:
 - X looks identical to Y
 - X is the binding constraint
 - Trust X for A, never for B
+- X alone is not proof, because Y also Z
