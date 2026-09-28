@@ -67,3 +67,5 @@ FORMAT RULES:
 - X alone is not proof, because Y also Z
 - When X starts, it marks Y as Z
 - It shows that X tracks Y within Z%
+- X does A, so Y must do B
+- Now X, then Y
