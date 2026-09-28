@@ -62,3 +62,4 @@ FORMAT RULES:
 - This is not a detail — here is a verified example of it biting
 - The latest I could do X would be Y
 - X looks identical to Y
+- X is the binding constraint
