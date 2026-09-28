@@ -61,3 +61,4 @@ FORMAT RULES:
 - X will break on exactly the cases that matter most
 - This is not a detail — here is a verified example of it biting
 - The latest I could do X would be Y
+- X looks identical to Y
