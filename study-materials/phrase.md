@@ -87,3 +87,4 @@ FORMAT RULES:
 - Cut in through
 - Dose-response expectation
 - Money shot
+- Resting metabolic rate
