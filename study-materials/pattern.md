@@ -63,3 +63,4 @@ FORMAT RULES:
 - The latest I could do X would be Y
 - X looks identical to Y
 - X is the binding constraint
+- Trust X for A, never for B
