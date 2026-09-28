@@ -66,3 +66,4 @@ FORMAT RULES:
 - Trust X for A, never for B
 - X alone is not proof, because Y also Z
 - When X starts, it marks Y as Z
+- It shows that X tracks Y within Z%
