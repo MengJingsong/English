@@ -65,3 +65,4 @@ FORMAT RULES:
 - X is the binding constraint
 - Trust X for A, never for B
 - X alone is not proof, because Y also Z
+- When X starts, it marks Y as Z
