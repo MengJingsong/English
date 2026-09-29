@@ -91,3 +91,4 @@ FORMAT RULES:
 - In stale
 - Refute it
 - Heads-up
+- Rest on
