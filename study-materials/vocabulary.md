@@ -89,3 +89,4 @@ FORMAT RULES:
 - Retrofit
 - Rollover
 - Goalposts
+- Excerpt
