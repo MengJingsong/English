@@ -90,3 +90,4 @@ FORMAT RULES:
 - Rollover
 - Goalposts
 - Excerpt
+- Slabbed
