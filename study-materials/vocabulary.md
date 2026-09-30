@@ -92,3 +92,4 @@ FORMAT RULES:
 - Excerpt
 - Slabbed
 - Witness
+- Mulling
