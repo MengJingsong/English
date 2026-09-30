@@ -72,3 +72,4 @@ FORMAT RULES:
 - X happens by more than Y explains, or with no Y at all
 - What to + verb
 - Prove that X, and that Y
+- Veto that if you disagree
