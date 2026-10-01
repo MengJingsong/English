@@ -75,3 +75,4 @@ FORMAT RULES:
 - Veto that if you disagree
 - There is no recorded way to + verb
 - X is ..., not Y
+- X ..., so no Y is required
