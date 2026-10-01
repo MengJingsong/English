@@ -77,3 +77,4 @@ FORMAT RULES:
 - X is ..., not Y
 - X ..., so no Y is required
 - Every X + past participle + ...
+- X only if Y
