@@ -76,3 +76,4 @@ FORMAT RULES:
 - There is no recorded way to + verb
 - X is ..., not Y
 - X ..., so no Y is required
+- Every X + past participle + ...
