@@ -94,3 +94,4 @@ FORMAT RULES:
 - Witness
 - Mulling
 - Callback
+- Counterfactual
