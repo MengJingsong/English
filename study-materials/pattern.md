@@ -81,3 +81,4 @@ FORMAT RULES:
 - X is loaded
 - Have + object + verb
 - Be worth + V-ing
+- Without X, Y will ...
