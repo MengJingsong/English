@@ -79,3 +79,5 @@ FORMAT RULES:
 - Every X + past participle + ...
 - X only if Y
 - X is loaded
+- Have + object + verb
+- Be worth + V-ing
