@@ -82,3 +82,4 @@ FORMAT RULES:
 - Have + object + verb
 - Be worth + V-ing
 - Without X, Y will ...
+- Start with X and expand only if X justifies it
