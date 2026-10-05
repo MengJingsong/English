@@ -4,74 +4,78 @@ FORMAT RULES:
 - Every study item starts with "- ".
 - Keep entries lightweight; add only essential disambiguation notes when needed.
 - Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+- Priority tiers: Core > Useful > Specialized.
 -->
 
-- This is X kicking in before Y
-- X must wait out Y rather than deadlock on Y
+## Core
 - It's less X and more Y
-- X instead of Y
-- Without X, Y can't tell whether A predates or postdates B
 - X is separate from Y
-- X is in scope now
 - The important number is that X
 - The actual work is A, not B
-- X is a property of Y, not of Z
-- The unit of work is X
-- X is consistent with what's documented in Y
-- X is split into A and B
 - The risk of X is that Y
 - X implies Y
-- Instrument X, not Y
-- X is the binding constraint
-- X alone is not proof, because Y also Z
 - X is ..., not Y
-- X ..., so no Y is required
 - X only if Y
-- Have + object + verb
-- Be worth + V-ing
 - Without X, Y will ...
-- Start with X and expand only if X justifies it
-- X is not complete until Y.
 - If X ..., Y ...; otherwise, Z ... .
-- X remains ... unless Y ... .
-- Before doing X, check whether Y.
-- By the time X happens, Y has already happened.
 - Because X ..., Y ... .
 - X ..., which means that Y ... .
-- X ..., so that Y can ... .
 - X depends on both A and B.
-- The more X ..., the more Y ... .
 - X may ..., but that does not mean Y ... .
 - X is consistent with Y, but does not establish Y.
 - X alone is not proof, because Y could also ... .
 - To distinguish A from B, measure C.
-- X is refuted if Y ... .
 - Without X, we cannot tell whether A or B.
 - Hold A fixed while varying B.
 - X was observed; Y was inferred from Z.
 - The result applies to X; it does not establish Y.
 - X differs from Y in that ... .
 - Even if X ..., Y may still ... .
-- X is bounded by A, not by B.
-- What remains is X.
-- X ..., rather than Y ... .
-
-## Online resources
 - A possible explanation for X is that Y.
-- This discrepancy could be attributed to X.
 - These results should be interpreted with caution.
 - Taken together, these results suggest that X.
 - Further work is needed to determine whether X.
 - The results indicate that X.
-- No evidence was found that X.
 - It is worth noting that X.
-- In contrast to X, Y.
-- X cannot be ruled out.
-- X raises the possibility that Y.
 - One limitation of X is that Y.
 - X remains an open question.
 - The key idea here is that X.
-- Suppose we have X.
 - Let's walk through X.
-- What happens if X?
 - It turns out that X.
+
+## Useful
+- X instead of Y
+- X is in scope now
+- X is a property of Y, not of Z
+- The unit of work is X
+- X is split into A and B
+- X alone is not proof, because Y also Z
+- X ..., so no Y is required
+- Have + object + verb
+- Be worth + V-ing
+- X is not complete until Y.
+- Before doing X, check whether Y.
+- X ..., so that Y can ... .
+- What remains is X.
+- X ..., rather than Y ... .
+- X cannot be ruled out.
+- What happens if X?
+
+## Specialized
+- This is X kicking in before Y
+- X must wait out Y rather than deadlock on Y
+- Without X, Y can't tell whether A predates or postdates B
+- X is consistent with what's documented in Y
+- Instrument X, not Y
+- X is the binding constraint
+- Start with X and expand only if X justifies it
+- X remains ... unless Y ... .
+- By the time X happens, Y has already happened.
+- The more X ..., the more Y ... .
+- X is refuted if Y ... .
+- X is bounded by A, not by B.
+- This discrepancy could be attributed to X.
+- No evidence was found that X.
+- In contrast to X, Y.
+- X raises the possibility that Y.
+- Suppose we have X.
