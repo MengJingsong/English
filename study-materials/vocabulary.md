@@ -124,3 +124,20 @@ FORMAT RULES:
 - backpressure
 - admission
 - outage
+
+## Online resources
+- robustness
+- scalability
+- generality
+- deployment
+- workload
+- testbed
+- benchmark
+- speedup
+- countermeasure
+- side channel
+- mitigate
+- validate
+- replicate
+- significance
+- uncertainty
