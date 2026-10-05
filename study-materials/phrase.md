@@ -94,3 +94,53 @@ FORMAT RULES:
 - Rest on
 - With respect to
 - With a reference to
+
+## Misconfiguration
+- trace X back to Y
+- be subject to X
+- in scope / out of scope
+- in passing
+- from scratch
+- at a glance
+- one at a time
+- in parallel
+- in place
+- up to date
+- regardless of X
+- with respect to X
+- as opposed to X
+- at most
+- grounds for X
+- rule X out
+- tell X apart
+- count toward X
+- be bounded by X
+- hold X fixed
+- under sustained load
+- in flight
+- by default
+- take effect
+- keep pace with X
+- at the cost of X
+- trade X for Y
+- fall through to X
+- fall back to X
+- run out of X
+- on demand
+- up front
+- be attributable to X
+- be consistent with X
+- on its own
+- so far
+- in principle
+- in practice
+- write X up
+- pick up X
+- carry X over
+- a judgment call
+- stand alone
+- rather than doing X
+- no longer
+- as a direct consequence
+- stop short of X
+- within X% of Y
