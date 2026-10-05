@@ -1,0 +1,111 @@
+<!--
+FORMAT RULES:
+- One study item per line.
+- Every study item starts with "- ".
+- Keep entries lightweight; add only essential disambiguation notes when needed.
+- Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+-->
+
+- One step/hop short of
+- Not a single X but a cluster of Y that all meet at the same Z
+- This is X kicking in before Y
+- Whether X is doing Y
+- X must wait out Y rather than deadlock on Y
+- It's less X and more Y
+- X instead of Y
+- X whose outcome differs for Y
+- X can be A, B, C, or at least D
+- X can't see Y written as Z
+- X may arrive as Y, so add Z that follows one level up
+- I would not X yet
+- X is only meaningful pinned to Y
+- Without X, Y can't tell whether A predates or postdates B
+- I'd suggest X listing Y
+- I'd tighten X one notch
+- Make X harder than it needs to be
+- X is separate from Y
+- X is in scope now
+- X needs A rather than B, so I'd treat it as C
+- X structurally could not surface Y
+- That alone suggests X was worth Y before A rather than after
+- X found real signal
+- The important number is that X
+- X judges each Y once and applies the verdict to all its Z
+- The actual work is A, not B
+- X clears a big share immediately
+- X is a property of Y, not of Z
+- The unit of work is X
+- I could not independently X with the tools I have here
+- X is consistent with what's documented in Y
+- X came from Y, not from anything I re-derived
+- X should rank far more than it rejects
+- X is reserved for Y
+- X is split into A and B
+- X fully determines Y
+- X usually decides before Y matters
+- X overlaps Y
+- X is more Y than you're pitching it as
+- Make X mean A, not B
+- The risk of X is that Y
+- X implies Y
+- Record X as Y on every Z
+- This is the one place X could Y
+- X keys off Y
+- A for X, B for Y
+- Want me to draft X plus Y for your review?
+- X creates Y pressure against Z
+- Numbering something X invites Y
+- X shouldn't get trimmed later
+- X has no consumer now that Y is out of scope
+- With a best-effort X for each Y, plus A/B/C
+- Two gaps this exposes, one of which is X
+- Instrument X, not Y
+- X will break on exactly the cases that matter most
+- This is not a detail — here is a verified example of it biting
+- The latest I could do X would be Y
+- X looks identical to Y
+- X is the binding constraint
+- Trust X for A, never for B
+- X alone is not proof, because Y also Z
+- When X starts, it marks Y as Z
+- It shows that X tracks Y within Z%
+- X does A, so Y must do B
+- Now X, then Y
+- X happens by more than Y explains, or with no Y at all
+- What to + verb
+- Prove that X, and that Y
+- Veto that if you disagree
+- There is no recorded way to + verb
+- X is ..., not Y
+- X ..., so no Y is required
+- Every X + past participle + ...
+- X only if Y
+- X is loaded
+- Have + object + verb
+- Be worth + V-ing
+- Without X, Y will ...
+- Start with X and expand only if X justifies it
+- X is not complete until Y.
+- If X ..., Y ...; otherwise, Z ... .
+- X remains ... unless Y ... .
+- Before doing X, check whether Y.
+- By the time X happens, Y has already happened.
+- Because X ..., Y ... .
+- X ..., which means that Y ... .
+- X ..., so that Y can ... .
+- X depends on both A and B.
+- The more X ..., the more Y ... .
+- X may ..., but that does not mean Y ... .
+- X is consistent with Y, but does not establish Y.
+- X alone is not proof, because Y could also ... .
+- To distinguish A from B, measure C.
+- X is refuted if Y ... .
+- Without X, we cannot tell whether A or B.
+- Hold A fixed while varying B.
+- X was observed; Y was inferred from Z.
+- The result applies to X; it does not establish Y.
+- X differs from Y in that ... .
+- Even if X ..., Y may still ... .
+- X is bounded by A, not by B.
+- What remains is X.
+- X ..., rather than Y ... .
