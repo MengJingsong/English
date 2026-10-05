@@ -96,3 +96,4 @@ FORMAT RULES:
 - Callback
 - Counterfactual
 - Moot
+- Canary
