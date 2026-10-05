@@ -20,6 +20,16 @@ This folder is the complete study corpus.
 
 Study-material entries should stay lightweight. Detailed meaning, register, context, pronunciation, collocations, and examples can be researched or generated dynamically when an item is studied. Add permanent notes only when a distinction is important for correct use.
 
+### Priority tiers
+
+Every study-material file is organized into three priority tiers:
+
+- **Core** — high-frequency, highly transferable items that are especially valuable for a computer-science PhD in North American daily life, academic communication, and research. These should receive the most practice and should ideally reach spontaneous active use.
+- **Useful** — common and worthwhile items whose value is more context-dependent. Practice them regularly, but less heavily than Core items.
+- **Specialized** — lower-frequency, more technical, narrower, or context-specific items. Keep them available for targeted learning and periodic review rather than giving them equal review weight.
+
+Priority is separate from mastery. A Specialized item can still be weak or due for review, and a Core item can eventually require only occasional retention checks. When other factors are equal, use the order **Core > Useful > Specialized**.
+
 ### `/english-study/`
 
 This folder stores learning-state metadata rather than study material.
@@ -30,7 +40,7 @@ This folder stores learning-state metadata rather than study material.
 
 ## Study workflow
 
-When studying or reviewing, use `study-materials` as the source corpus and `english-study/mastery.md` to choose what needs practice.
+When studying or reviewing, use `study-materials` as the source corpus and `english-study/mastery.md` to choose what needs practice. Due/weak items take precedence; among items with similar mastery and review status, prefer Core over Useful over Specialized.
 
 When useful, outside resources may be consulted dynamically for authentic usage, pronunciation, register, technical context, and current examples.
 
