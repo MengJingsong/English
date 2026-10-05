@@ -1,0 +1,107 @@
+<!--
+FORMAT RULES:
+- One study item per line.
+- Every study item starts with "- ".
+- Keep entries lightweight; add only essential disambiguation notes when needed.
+- Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+-->
+
+- It flipped the verdict
+- Escape hatch
+- Silently overshoot
+- Flush to drain
+- With no aggregate memory cap tied to `memtable_heap_space`
+- The orchestrator pool is also sized `flushWriters`
+- Key off
+- Side-agnostic
+- Kebab-case Convention
+- In stale
+- trace through
+- workaround
+- sanity check
+- edge case
+- kick in
+- fall back to
+- get around
+- trade-off
+- under the hood
+- hook into
+- spin up
+- tear down
+- ramp up
+- scale up
+- top out at
+- level off
+- creep up
+- pile up
+- drain
+- back up
+- catch up
+- die down
+- blow up
+- choke on
+- bog down
+- eat up
+- flush out
+- bump up
+- cap at
+- bottom out
+- short-circuit
+- bubble up
+- swallow an exception
+- guard against
+- kick off
+- fire off
+- fan out
+- wire up
+- expose
+- surface
+- max out
+- throttle
+- back off
+- clamp
+- leak through
+- hold up under
+- spike
+- overshoot
+- reclaim
+- headroom
+- sidestep
+- loosen
+- tighten
+- feed into
+- cap
+- gate
+- hot path
+- culprit
+- breaking point
+- noisy
+- flaky
+- brittle
+- fail silently
+- hang
+- roll back
+- plug in
+- rip out
+- factor out
+- stub out
+- mock out
+- layer on
+- piggyback on
+- smoke test
+- hack
+- plumbing
+- boilerplate
+- end-to-end
+- overhead
+- footprint
+- heavyweight
+- amortize
+- step through
+- zoom in on
+- zoom out
+- bottleneck on
+- fall back on
+- opt into
+- opt out of
+- phase in
