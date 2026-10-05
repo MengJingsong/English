@@ -17,7 +17,6 @@ FORMAT RULES:
 - It's on the house
 - I'm in hot water
 - It's not rocket science
-- Keep me posted
 - Jump the gun
 - You have my word
 - Hit the nail on the head
@@ -26,7 +25,6 @@ FORMAT RULES:
 - It's a steal
 - I'm out of words
 - It's a tough call
-- Spot on
 - That's way over my head
 - Beat around the bush
 - Push one's luck
@@ -42,10 +40,7 @@ FORMAT RULES:
 - It's not like
 - With that being said
 - Push back on
-- Runner-up
 - Bump into
-- On loan
-- For good
 - Settle in
 - Heads-up
 - I'm not following
