@@ -89,3 +89,25 @@ FORMAT RULES:
 - taper off
 - lay out
 - walk through
+
+## Online resources
+- take X into account
+- in terms of X
+- with the exception of X
+- relative to X
+- compared with X
+- in the presence of X
+- under realistic conditions
+- under these conditions
+- in the wild
+- at scale
+- in production
+- at peak
+- lead to X
+- result in X
+- result from X
+- remain an open question
+- beyond the scope of X
+- in line with X
+- in contrast to X
+- take a closer look at X
