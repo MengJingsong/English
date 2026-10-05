@@ -1,0 +1,62 @@
+<!--
+FORMAT RULES:
+- One study item per line.
+- Every study item starts with "- ".
+- Keep entries lightweight; add only essential disambiguation notes when needed.
+- Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+-->
+
+- Ad hoc
+- Post hoc
+- Case-specific
+- De facto
+- Tiered Approach
+- In Prose
+- Define the ladder by rigor instead
+- Dose-response expectation
+- Resting metabolic rate
+- Refute it
+- With respect to
+- With a reference to
+- rule out
+- pin down
+- tease apart
+- account for
+- build on
+- line up with
+- stem from
+- cross-check
+- what seems to be happening is
+- this suggests that
+- rationale
+- motivation behind
+- intuition
+- the key thing to notice
+- main takeaway
+- put it all together
+- counterintuitive
+- relax an assumption
+- come into play
+- hinge on
+- shed light on
+- give rise to
+- play a role in
+- flag something
+- point out
+- hold true
+- carry over to
+- generalize to
+- be consistent with
+- be driven by
+- constraint / limit / threshold / ceiling
+- throughput / latency / capacity
+- transient / sustained / cumulative / aggregate
+- block / defer / reject
+- confirm / support / be consistent with / refute
+- observe / infer / predict
+- evidence / finding / result
+- fall back / fallback / fall through
+- on its own / in its own / by itself
+- attribute X to Y / result in / result from
+- while / whereas / unless / until
+- bound / bounded / boundary
