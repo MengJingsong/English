@@ -1,6 +1,6 @@
 # English Study
 
-This folder stores learning state, testing history, and the rules ChatGPT should use when helping with this repository.
+This folder stores learning state, temporary study intake, task-specific instructions, testing history, and the rules ChatGPT should use when helping with this repository.
 
 ## Repository structure
 
@@ -18,6 +18,9 @@ This folder stores learning state, testing history, and the rules ChatGPT should
 - **Useful** items are common but more context-dependent; review them regularly with lower weight.
 - **Specialized** items are narrower, more technical, or lower-frequency; review them mainly when due, weak, or relevant to the current task.
 - Priority and mastery are independent. Do not treat a Core label as evidence of mastery or a Specialized label as permission to ignore an overdue weak item.
+- `/english-study/inbox.md` is a temporary intake queue for promising new items discovered during lookup. Inbox items are not formal study material until curated.
+- `/english-study/instructions/` stores task-specific instructions. Use `router.md` to select the smallest relevant instruction file for the current task.
+- `/english-study/project-instructions.md` contains concise long-term Project-level routing instructions.
 - `/english-study/` stores learning state and study-system metadata. It is not itself part of the study corpus.
 - The repository root `README.md` is documentation only and is not study material.
 
@@ -75,3 +78,36 @@ Update state after meaningful testing. Avoid bloating the log with every trivial
 ## Default workflow for ChatGPT
 
 At the beginning of a study/review session, read this README and the relevant study materials plus `mastery.md`. Select exercises based on current mastery rather than randomly. After testing, update mastery conservatively and add a concise session-log entry when useful.
+
+
+## Instruction routing
+
+Use `/english-study/instructions/router.md` to select task-specific behavior:
+
+- quoted lookup → `lookup.md`
+- new learning → `study.md`
+- “复习” → `review.md`
+- “测试” → `test.md`
+- “听力训练” → `listening.md`
+- “整理 inbox” → `curate-inbox.md`
+
+Load only the smallest set of instruction files needed for the current task.
+
+## Inbox workflow
+
+During ordinary quoted lookup, do not immediately classify new study candidates into `/study-materials/`.
+
+Instead:
+1. explain the language fully to the user;
+2. if the item is worth long-term study, normalize it and append it to `/english-study/inbox.md` after checking for duplicates;
+3. leave detailed classification and tiering for a later “整理 inbox” session.
+
+During inbox curation:
+1. correct/normalize;
+2. deduplicate;
+3. remove low-value or one-off items;
+4. classify into the best formal study-material file;
+5. assign Core / Useful / Specialized;
+6. remove processed inbox entries.
+
+This keeps lookup sessions fast and keeps the formal study corpus curated.
