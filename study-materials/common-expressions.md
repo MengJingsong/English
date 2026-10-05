@@ -208,3 +208,17 @@ FORMAT RULES:
 - lay out
 - walk through
 - be driven by
+
+## Misconfiguration usage distinctions
+- constraint / limit / threshold / ceiling
+- throughput / latency / capacity
+- transient / sustained / cumulative / aggregate
+- block / defer / reject
+- confirm / support / be consistent with / refute
+- observe / infer / predict
+- evidence / finding / result
+- fall back / fallback / fall through
+- on its own / in its own / by itself
+- attribute X to Y / result in / result from
+- while / whereas / unless / until
+- bound / bounded / boundary
