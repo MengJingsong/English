@@ -52,3 +52,26 @@ FORMAT RULES:
 - attribute X to Y / result in / result from
 - while / whereas / unless / until
 - bound / bounded / boundary
+
+## Online resources
+- interpret with caution
+- be limited to X
+- raise the possibility of X
+- support the hypothesis that X
+- challenge the notion that X
+- consistent with prior work
+- take X into account
+- remain unanswered
+- future work
+- open question
+- statistically significant
+- no evidence of X
+- further analysis
+- prior work
+- existing literature
+- tentative evidence
+- under these conditions
+- beyond the scope of X
+- corroborate previous findings
+- extrapolate to X
+- account for potential confounders
