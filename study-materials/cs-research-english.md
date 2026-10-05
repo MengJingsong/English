@@ -89,3 +89,41 @@ FORMAT RULES:
 - opt into
 - opt out of
 - phase in
+
+## Online resources
+- deploy in production
+- production workload
+- real-world trace
+- representative workload
+- incur overhead
+- benchmark against X
+- outperform X
+- under contention
+- recover gracefully from X
+- design trade-off
+- design space
+- state of the art
+- performance bottleneck
+- resource utilization
+- failure recovery
+- fault tolerance
+- request-response
+- round-trip
+- tail latency
+- p99 latency
+- throughput at peak
+- scale to X
+- production cluster
+- end-to-end analysis
+- microbenchmark
+- stress test
+- load test
+- regression test
+- root cause
+- failure mode
+- performance regression
+- memory footprint
+- I/O amplification
+- lock contention
+- cache hit rate
+- resource constraint
