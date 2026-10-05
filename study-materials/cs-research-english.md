@@ -4,117 +4,62 @@ FORMAT RULES:
 - Every study item starts with "- ".
 - Keep entries lightweight; add only essential disambiguation notes when needed.
 - Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+- Priority tiers: Core > Useful > Specialized.
 -->
 
-- Escape hatch
-- Key off
-- trace through
+## Core
 - workaround
 - sanity check
 - edge case
-- kick in
-- fall back to
-- get around
 - trade-off
 - under the hood
-- hook into
 - spin up
 - tear down
 - ramp up
 - scale up
-- top out at
-- level off
-- creep up
 - pile up
-- drain
 - back up
-- catch up
-- choke on
 - bog down
 - flush out
-- bump up
 - cap at
-- bottom out
 - short-circuit
-- bubble up
-- swallow an exception
 - guard against
-- kick off
-- fire off
 - fan out
 - wire up
-- expose
 - surface
-- max out
 - throttle
 - back off
-- clamp
-- leak through
-- hold up under
 - spike
 - overshoot
 - reclaim
 - headroom
-- sidestep
-- feed into
-- cap
-- gate
 - hot path
-- noisy
 - flaky
 - brittle
 - fail silently
-- hang
 - roll back
-- plug in
-- rip out
 - factor out
-- stub out
 - mock out
-- layer on
-- piggyback on
 - smoke test
-- plumbing
-- boilerplate
 - end-to-end
 - overhead
 - footprint
-- heavyweight
 - amortize
-- step through
-- zoom in on
-- zoom out
 - bottleneck on
-- fall back on
-- opt into
-- opt out of
-- phase in
-
-## Online resources
 - deploy in production
 - production workload
-- real-world trace
 - representative workload
 - incur overhead
 - benchmark against X
 - outperform X
 - under contention
-- recover gracefully from X
 - design trade-off
-- design space
-- state of the art
 - performance bottleneck
 - resource utilization
-- failure recovery
 - fault tolerance
-- request-response
-- round-trip
 - tail latency
 - p99 latency
-- throughput at peak
 - scale to X
-- production cluster
-- end-to-end analysis
 - microbenchmark
 - stress test
 - load test
@@ -123,7 +68,66 @@ FORMAT RULES:
 - failure mode
 - performance regression
 - memory footprint
-- I/O amplification
 - lock contention
 - cache hit rate
 - resource constraint
+
+## Useful
+- kick in
+- fall back to
+- top out at
+- level off
+- choke on
+- bubble up
+- kick off
+- max out
+- feed into
+- noisy
+- hang
+- stub out
+- step through
+- real-world trace
+- design space
+- state of the art
+- round-trip
+- production cluster
+
+## Specialized
+- Escape hatch
+- Key off
+- trace through
+- get around
+- hook into
+- creep up
+- drain
+- catch up
+- bump up
+- bottom out
+- swallow an exception
+- fire off
+- expose
+- clamp
+- leak through
+- hold up under
+- sidestep
+- cap
+- gate
+- plug in
+- rip out
+- layer on
+- piggyback on
+- plumbing
+- boilerplate
+- heavyweight
+- zoom in on
+- zoom out
+- fall back on
+- opt into
+- opt out of
+- phase in
+- recover gracefully from X
+- failure recovery
+- request-response
+- throughput at peak
+- end-to-end analysis
+- I/O amplification
