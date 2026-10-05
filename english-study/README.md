@@ -13,6 +13,11 @@ This folder stores learning state, testing history, and the rules ChatGPT should
 - `/study-materials/cs-research-english.md` stores computer-science and technical research English.
 - `/study-materials/pronunciation-listening.md` stores listening-specific pronunciation targets such as reductions, linking, stress, and rhythm.
 - Study-material entries should remain lightweight. Detailed meaning, register, context, pronunciation, and examples may be researched or generated dynamically during study; preserve permanent notes only when they are important for correct use.
+- Every study-material file uses three priority tiers: **Core**, **Useful**, and **Specialized**.
+- **Core** items are high-frequency and highly transferable; prioritize active mastery.
+- **Useful** items are common but more context-dependent; review them regularly with lower weight.
+- **Specialized** items are narrower, more technical, or lower-frequency; review them mainly when due, weak, or relevant to the current task.
+- Priority and mastery are independent. Do not treat a Core label as evidence of mastery or a Specialized label as permission to ignore an overdue weak item.
 - `/english-study/` stores learning state and study-system metadata. It is not itself part of the study corpus.
 - The repository root `README.md` is documentation only and is not study material.
 
@@ -51,7 +56,10 @@ When choosing what to review, prioritize:
 2. recently failed or weak items;
 3. low-mastery items;
 4. items not tested for a long time;
-5. a smaller sample of mastered items for retention checks.
+5. priority tier when the above factors are similar: Core > Useful > Specialized;
+6. a smaller sample of mastered items for retention checks.
+
+For a balanced general review session, a useful default is roughly 60% Core, 30% Useful, and 10% Specialized. Override this distribution when mastery history or the user's current goal makes another mix more appropriate.
 
 ## Listening-training rule
 
