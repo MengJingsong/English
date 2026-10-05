@@ -4,55 +4,99 @@ FORMAT RULES:
 - Every study item starts with "- ".
 - Keep entries lightweight; add only essential disambiguation notes when needed.
 - Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+- Priority tiers: Core > Useful > Specialized.
 -->
 
+## Core
 - bottom line
+- flesh out
+- nail down
+- in scope / out of scope
+- at a glance
+- in parallel
+- up to date
+- regardless of X
+- with respect to X
+- as opposed to X
+- rule X out
+- hold X fixed
+- under sustained load
+- by default
+- take effect
+- keep pace with X
+- fall back to X
+- run out of X
+- on demand
+- up front
+- be consistent with X
+- so far
+- in principle
+- in practice
+- dig into
+- follow up on
+- come down to
+- run into
+- rule of thumb
+- circle back to
+- wrap up
+- bandwidth
+- lay out
+- walk through
+- take X into account
+- in terms of X
+- compared with X
+- under realistic conditions
+- at scale
+- in production
+- lead to X
+- result in X
+- result from X
+- remain an open question
+- in contrast to X
+- take a closer look at X
+
+## Useful
 - iron out
 - Proxy for
 - Safety net
 - In case
 - Keep around
-- flesh out
-- nail down
 - Cut across
 - trace X back to Y
 - be subject to X
-- in scope / out of scope
 - in passing
 - from scratch
-- at a glance
 - one at a time
-- in parallel
 - in place
-- up to date
-- regardless of X
-- with respect to X
-- as opposed to X
 - at most
-- grounds for X
-- rule X out
 - tell X apart
-- count toward X
-- be bounded by X
-- hold X fixed
-- under sustained load
-- in flight
-- by default
-- take effect
-- keep pace with X
 - at the cost of X
 - trade X for Y
-- fall through to X
-- fall back to X
-- run out of X
-- on demand
-- up front
-- be attributable to X
-- be consistent with X
 - on its own
-- so far
-- in principle
-- in practice
+- at the cost of
+- end up
+- bring up
+- hold up
+- poke around
+- swap out
+- roll out
+- phase out
+- carry over
+- make some headway
+- prioritize
+- come at the cost of
+- start from scratch
+- relative to X
+- under these conditions
+- beyond the scope of X
+
+## Specialized
+- grounds for X
+- count toward X
+- be bounded by X
+- in flight
+- fall through to X
+- be attributable to X
 - write X up
 - pick up X
 - carry X over
@@ -61,53 +105,13 @@ FORMAT RULES:
 - as a direct consequence
 - stop short of X
 - within X% of Y
-- dig into
-- follow up on
-- come down to
-- at the cost of
-- end up
-- bring up
-- hold up
-- run into
-- poke around
-- swap out
-- roll out
-- phase out
-- carry over
-- rule of thumb
-- make some headway
-- circle back to
-- wrap up
-- prioritize
-- come at the cost of
-- start from scratch
-- bandwidth
 - wash out
 - average out
 - level out
 - flatten out
 - taper off
-- lay out
-- walk through
-
-## Online resources
-- take X into account
-- in terms of X
 - with the exception of X
-- relative to X
-- compared with X
 - in the presence of X
-- under realistic conditions
-- under these conditions
 - in the wild
-- at scale
-- in production
 - at peak
-- lead to X
-- result in X
-- result from X
-- remain an open question
-- beyond the scope of X
 - in line with X
-- in contrast to X
-- take a closer look at X
