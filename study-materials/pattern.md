@@ -83,3 +83,29 @@ FORMAT RULES:
 - Be worth + V-ing
 - Without X, Y will ...
 - Start with X and expand only if X justifies it
+
+## Misconfiguration
+- X is not complete until Y.
+- If X ..., Y ...; otherwise, Z ... .
+- X remains ... unless Y ... .
+- Before doing X, check whether Y.
+- By the time X happens, Y has already happened.
+- Because X ..., Y ... .
+- X ..., which means that Y ... .
+- X ..., so that Y can ... .
+- X depends on both A and B.
+- The more X ..., the more Y ... .
+- X may ..., but that does not mean Y ... .
+- X is consistent with Y, but does not establish Y.
+- X alone is not proof, because Y could also ... .
+- To distinguish A from B, measure C.
+- X is refuted if Y ... .
+- Without X, we cannot tell whether A or B.
+- Hold A fixed while varying B.
+- X was observed; Y was inferred from Z.
+- The result applies to X; it does not establish Y.
+- X differs from Y in that ... .
+- Even if X ..., Y may still ... .
+- X is bounded by A, not by B.
+- What remains is X.
+- X ..., rather than Y ... .
