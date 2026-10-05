@@ -55,3 +55,23 @@ FORMAT RULES:
 - X is bounded by A, not by B.
 - What remains is X.
 - X ..., rather than Y ... .
+
+## Online resources
+- A possible explanation for X is that Y.
+- This discrepancy could be attributed to X.
+- These results should be interpreted with caution.
+- Taken together, these results suggest that X.
+- Further work is needed to determine whether X.
+- The results indicate that X.
+- No evidence was found that X.
+- It is worth noting that X.
+- In contrast to X, Y.
+- X cannot be ruled out.
+- X raises the possibility that Y.
+- One limitation of X is that Y.
+- X remains an open question.
+- The key idea here is that X.
+- Suppose we have X.
+- Let's walk through X.
+- What happens if X?
+- It turns out that X.
