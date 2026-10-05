@@ -4,64 +4,37 @@ FORMAT RULES:
 - Every study item starts with "- ".
 - Keep entries lightweight; add only essential disambiguation notes when needed.
 - Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+- Priority tiers: Core > Useful > Specialized.
 -->
 
-- Ad hoc
-- Post hoc
-- Case-specific
-- De facto
-- In Prose
+## Core
 - With respect to
 - rule out
 - pin down
 - tease apart
 - account for
 - build on
-- line up with
 - stem from
-- cross-check
-- what seems to be happening is
 - this suggests that
 - rationale
-- motivation behind
 - intuition
 - the key thing to notice
 - main takeaway
-- relax an assumption
-- come into play
-- hinge on
 - shed light on
 - give rise to
-- play a role in
-- flag something
-- point out
-- hold true
-- carry over to
 - generalize to
 - be consistent with
 - be driven by
-- constraint / limit / threshold / ceiling
-- throughput / latency / capacity
-- transient / sustained / cumulative / aggregate
-- block / defer / reject
 - confirm / support / be consistent with / refute
 - observe / infer / predict
 - evidence / finding / result
-- fall back / fallback / fall through
-- on its own / in its own / by itself
 - attribute X to Y / result in / result from
-- while / whereas / unless / until
-- bound / bounded / boundary
-
-## Online resources
 - interpret with caution
 - be limited to X
 - raise the possibility of X
 - support the hypothesis that X
-- challenge the notion that X
 - consistent with prior work
 - take X into account
-- remain unanswered
 - future work
 - open question
 - statistically significant
@@ -72,6 +45,37 @@ FORMAT RULES:
 - tentative evidence
 - under these conditions
 - beyond the scope of X
-- corroborate previous findings
 - extrapolate to X
 - account for potential confounders
+
+## Useful
+- line up with
+- cross-check
+- what seems to be happening is
+- motivation behind
+- relax an assumption
+- come into play
+- hinge on
+- play a role in
+- flag something
+- point out
+- hold true
+- carry over to
+
+## Specialized
+- Ad hoc
+- Post hoc
+- Case-specific
+- De facto
+- In Prose
+- constraint / limit / threshold / ceiling
+- throughput / latency / capacity
+- transient / sustained / cumulative / aggregate
+- block / defer / reject
+- fall back / fallback / fall through
+- on its own / in its own / by itself
+- while / whereas / unless / until
+- bound / bounded / boundary
+- challenge the notion that X
+- remain unanswered
+- corroborate previous findings
