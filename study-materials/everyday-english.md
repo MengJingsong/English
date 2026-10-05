@@ -4,53 +4,27 @@ FORMAT RULES:
 - Every study item starts with "- ".
 - Keep entries lightweight; add only essential disambiguation notes when needed.
 - Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+- Priority tiers: Core > Useful > Specialized.
 -->
 
+## Core
 - Fingers crossed
 - You bet
-- Screw up
 - I'm all ears
-- Tell me about it
 - What's the catch?
-- Just my luck
 - Out of the blue
-- It's on the house
-- I'm in hot water
 - It's not rocket science
-- Jump the gun
-- You have my word
-- Hit the nail on the head
 - Cut to the chase
 - You're spot on
-- It's a steal
-- I'm out of words
 - It's a tough call
 - That's way over my head
-- Beat around the bush
-- Push one's luck
 - In the loop
-- Not in the loop
 - Put it on hold
-- Pull one's weight
-- Do one's fair share
-- Jump the queue
-- Cut in line
-- On the dot
 - Sleep on it
-- It's not like
-- With that being said
 - Push back on
-- Bump into
-- Settle in
 - Heads-up
 - I'm not following
-- I'm not sure that's necessarily the case
 - jump in
-- table something
-- park something
-- go down a rabbit hole
-- nice-to-have
-- must-have
 - report back
 - check in
 - keep someone posted
@@ -59,12 +33,7 @@ FORMAT RULES:
 - get someone up to speed
 - on the same page
 - loop someone in
-- hash out
-- pencil something in
-- block off time
 - play it by ear
-- get the ball rolling
-- get something off the ground
 - gain traction
 - hit a roadblock
 - get back on track
@@ -72,26 +41,15 @@ FORMAT RULES:
 - up in the air
 - set in stone
 - take ownership of
-- take over
 - hand off
 - on track
 - fall behind
-- catch up on
-- ahead of schedule
-- behind schedule
-- bite off more than you can chew
-- take the lead on
-- own something
 - raise a red flag
 - take a stab at
 - give it a shot
 - get a handle on
 - get a sense of
 - have a rough idea of
-- commit to
-- lean toward
-
-## Online resources
 - Sounds good.
 - That works for me.
 - I'm all set.
@@ -101,13 +59,59 @@ FORMAT RULES:
 - Makes sense.
 - Go ahead.
 - No rush.
-- Hang on.
 - Give me a sec.
 - I'll get back to you.
 - I'm not sure I follow.
 - pretty much
 - kind of
 - sort of
-- right away
-- you know what I mean
 - I mean
+
+## Useful
+- Screw up
+- Tell me about it
+- Just my luck
+- Jump the gun
+- Hit the nail on the head
+- I'm out of words
+- Not in the loop
+- Pull one's weight
+- Do one's fair share
+- It's not like
+- With that being said
+- Bump into
+- Settle in
+- I'm not sure that's necessarily the case
+- nice-to-have
+- must-have
+- hash out
+- take over
+- catch up on
+- take the lead on
+- commit to
+- lean toward
+- right away
+
+## Specialized
+- It's on the house
+- I'm in hot water
+- You have my word
+- It's a steal
+- Beat around the bush
+- Push one's luck
+- Jump the queue
+- Cut in line
+- On the dot
+- table something
+- park something
+- go down a rabbit hole
+- pencil something in
+- block off time
+- get the ball rolling
+- get something off the ground
+- ahead of schedule
+- behind schedule
+- bite off more than you can chew
+- own something
+- Hang on.
+- you know what I mean
