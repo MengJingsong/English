@@ -1,0 +1,97 @@
+<!--
+FORMAT RULES:
+- One study item per line.
+- Every study item starts with "- ".
+- Keep entries lightweight; add only essential disambiguation notes when needed.
+- Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+-->
+
+- Fingers crossed
+- You bet
+- Screw up
+- I'm all ears
+- Tell me about it
+- What's the catch?
+- Just my luck
+- Out of the blue
+- It's on the house
+- I'm in hot water
+- It's not rocket science
+- Keep me posted
+- Jump the gun
+- You have my word
+- Hit the nail on the head
+- Cut to the chase
+- You're spot on
+- It's a steal
+- I'm out of words
+- It's a tough call
+- Spot on
+- That's way over my head
+- Beat around the bush
+- Push one's luck
+- In the loop
+- Not in the loop
+- Put it on hold
+- Pull one's weight
+- Do one's fair share
+- Jump the queue
+- Cut in line
+- On the dot
+- Sleep on it
+- It's not like
+- With that being said
+- Push back on
+- Runner-up
+- Bump into
+- On loan
+- For good
+- Settle in
+- Heads-up
+- I'm not following
+- I'm not sure that's necessarily the case
+- jump in
+- table something
+- park something
+- go down a rabbit hole
+- nice-to-have
+- must-have
+- report back
+- check in
+- keep someone posted
+- touch base
+- sync up
+- get someone up to speed
+- on the same page
+- loop someone in
+- hash out
+- pencil something in
+- block off time
+- play it by ear
+- get the ball rolling
+- get something off the ground
+- gain traction
+- hit a roadblock
+- get back on track
+- keep an eye on
+- up in the air
+- set in stone
+- take ownership of
+- take over
+- hand off
+- on track
+- fall behind
+- catch up on
+- ahead of schedule
+- behind schedule
+- bite off more than you can chew
+- take the lead on
+- own something
+- raise a red flag
+- take a stab at
+- give it a shot
+- get a handle on
+- get a sense of
+- have a rough idea of
+- commit to
+- lean toward
