@@ -90,3 +90,24 @@ FORMAT RULES:
 - have a rough idea of
 - commit to
 - lean toward
+
+## Online resources
+- Sounds good.
+- That works for me.
+- I'm all set.
+- No worries.
+- I'm good.
+- Fair enough.
+- Makes sense.
+- Go ahead.
+- No rush.
+- Hang on.
+- Give me a sec.
+- I'll get back to you.
+- I'm not sure I follow.
+- pretty much
+- kind of
+- sort of
+- right away
+- you know what I mean
+- I mean
