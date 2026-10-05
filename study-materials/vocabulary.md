@@ -95,3 +95,4 @@ FORMAT RULES:
 - Mulling
 - Callback
 - Counterfactual
+- Moot
