@@ -4,9 +4,17 @@ This folder stores learning state, testing history, and the rules ChatGPT should
 
 ## Repository structure
 
-- `/study-materials/` is the complete study corpus. Unless the user explicitly asks otherwise, vocabulary, phrases, expressions, patterns, and sentences to teach/test should come from that folder.
+- `/study-materials/` is the complete study corpus. Unless the user explicitly asks otherwise, items to teach/test should come from that folder.
+- `/study-materials/vocabulary.md` stores individual words.
+- `/study-materials/phrases.md` stores reusable phrases, collocations, phrasal verbs, and general-purpose chunks.
+- `/study-materials/sentence-patterns.md` stores reusable sentence frames and structures.
+- `/study-materials/everyday-english.md` stores North American daily, campus, workplace, and conversational English.
+- `/study-materials/academic-english.md` stores academic writing, presentations, research discussion, and evidence/argumentation language.
+- `/study-materials/cs-research-english.md` stores computer-science and technical research English.
+- `/study-materials/pronunciation-listening.md` stores listening-specific pronunciation targets such as reductions, linking, stress, and rhythm.
+- Study-material entries should remain lightweight. Detailed meaning, register, context, pronunciation, and examples may be researched or generated dynamically during study; preserve permanent notes only when they are important for correct use.
 - `/english-study/` stores learning state and study-system metadata. It is not itself part of the study corpus.
-- The repository root `README.md` is not study material.
+- The repository root `README.md` is documentation only and is not study material.
 
 ## Goal
 
