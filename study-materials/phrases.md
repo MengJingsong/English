@@ -1,0 +1,116 @@
+<!--
+FORMAT RULES:
+- One study item per line.
+- Every study item starts with "- ".
+- Keep entries lightweight; add only essential disambiguation notes when needed.
+- Detailed meaning, register, context, pronunciation, and examples may be supplied dynamically during study.
+-->
+
+- Terse aims
+- There is enough to go around
+- bottom line
+- iron out
+- Before the wall
+- Proxy for
+- Ride along
+- Safety net
+- In case
+- Crash out
+- Keep around
+- Dust mite cover
+- flesh out
+- nail down
+- Filter in
+- Filter out
+- Highest Value-per-effort Fix
+- Among the First Magnitude Rows
+- Judge-the-helper-once
+- On the Risks
+- Cheap Funnel
+- Cut across
+- Read cold
+- Cut in through
+- Money shot
+- Rest on
+- trace X back to Y
+- be subject to X
+- in scope / out of scope
+- in passing
+- from scratch
+- at a glance
+- one at a time
+- in parallel
+- in place
+- up to date
+- regardless of X
+- with respect to X
+- as opposed to X
+- at most
+- grounds for X
+- rule X out
+- tell X apart
+- count toward X
+- be bounded by X
+- hold X fixed
+- under sustained load
+- in flight
+- by default
+- take effect
+- keep pace with X
+- at the cost of X
+- trade X for Y
+- fall through to X
+- fall back to X
+- run out of X
+- on demand
+- up front
+- be attributable to X
+- be consistent with X
+- on its own
+- so far
+- in principle
+- in practice
+- write X up
+- pick up X
+- carry X over
+- a judgment call
+- stand alone
+- rather than doing X
+- no longer
+- as a direct consequence
+- stop short of X
+- within X% of Y
+- dig into
+- follow up on
+- come down to
+- at the cost of
+- end up
+- bring up
+- hold up
+- run into
+- poke around
+- swap out
+- roll out
+- phase out
+- carry over
+- rule of thumb
+- line up
+- match up
+- make some headway
+- circle back to
+- wrap up
+- subtle difference
+- prioritize
+- time-sensitive
+- come at the cost of
+- pay off
+- take shape
+- start from scratch
+- bandwidth
+- wash out
+- average out
+- level out
+- flatten out
+- taper off
+- lay out
+- walk through
