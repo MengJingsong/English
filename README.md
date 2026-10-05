@@ -32,10 +32,20 @@ Priority is separate from mastery. A Specialized item can still be weak or due f
 
 ### `/english-study/`
 
-This folder stores learning-state metadata rather than study material.
+This folder stores learning-state metadata, task routing, and temporary intake rather than formal study material.
 
-- `README.md` — study rules and workflow.
-- `mastery.md` — current mastery state for study items.
+- `README.md` — repository-wide study rules and workflow.
+- `project-instructions.md` — concise long-term Project instructions/router.
+- `inbox.md` — temporary queue for newly discovered items; not part of the formal study corpus until curated.
+- `instructions/` — task-specific instructions:
+  - `router.md`
+  - `lookup.md`
+  - `study.md`
+  - `review.md`
+  - `test.md`
+  - `listening.md`
+  - `curate-inbox.md`
+- `mastery.md` — current mastery state for formal study items.
 - `session-log.md` — concise history of meaningful reviews and tests.
 
 ## Study workflow
@@ -43,5 +53,7 @@ This folder stores learning-state metadata rather than study material.
 When studying or reviewing, use `study-materials` as the source corpus and `english-study/mastery.md` to choose what needs practice. Due/weak items take precedence; among items with similar mastery and review status, prefer Core over Useful over Specialized.
 
 When useful, outside resources may be consulted dynamically for authentic usage, pronunciation, register, technical context, and current examples.
+
+New candidate items discovered during ordinary lookup should first go to `english-study/inbox.md`. They enter the formal `study-materials` corpus only during inbox curation, when they are normalized, deduplicated, classified, and assigned a priority tier.
 
 The root `README.md` is documentation only and is not part of the study corpus.
