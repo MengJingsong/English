@@ -82,16 +82,20 @@ At the beginning of a study/review session, read this README and the relevant st
 
 ## Instruction routing
 
-Use `/english-study/instructions/router.md` to select task-specific behavior:
+See `/english-study/instructions/router.md` for the authoritative mode map, activation rules, and default routing.
 
-- quoted lookup → `lookup.md`
-- new learning → `study.md`
-- “复习” → `review.md`
-- “测试” → `test.md`
-- “听力训练” → `listening.md`
-- “整理 inbox” → `curate-inbox.md`
+Named session modes:
+- `查词模式` → `lookup.md`
+- `学习模式` → `study.md`
+- `复习模式` → `review.md`
+- `测试模式` → `test.md`
+- `听力模式` → `listening.md`
+- `整理模式` → `curate-inbox.md`
+- `默认模式` → clear the named mode; use `router.md`
 
-Load only the smallest set of instruction files needed for the current task.
+A named mode persists only within its current conversation. While it is active, future messages do not require quotes. An explicit change of mode replaces it; clear requests for another task may override it for that request. Without an active mode, route each message by its intent and quotation marks.
+
+Load only the smallest relevant set of instruction files for the current task.
 
 ## Inbox workflow
 
