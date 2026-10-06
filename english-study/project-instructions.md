@@ -1,21 +1,26 @@
-# Project Instructions
+# English Study — Project Instructions
 
-Default repository: https://github.com/MengJingsong/English
+Default repository: `MengJingsong/English`.
 
-At the start of an English-study task, use `english-study/README.md` for global rules and `english-study/instructions/router.md` to select the smallest relevant task-specific instruction file.
+For English-study tasks, read `english-study/README.md` for global rules and `english-study/instructions/router.md` for session routing. Read only the relevant task instruction file.
 
-Routing:
-- quoted Chinese/English input → `lookup.md`
-- learning new material → `study.md`
-- “复习” → `review.md`
-- “测试” → `test.md`
-- “听力训练” → `listening.md`
-- “整理 inbox” → `curate-inbox.md`
+## Session modes
+- `查词模式` → `lookup.md`
+- `学习模式` → `study.md`
+- `复习模式` → `review.md`
+- `测试模式` → `test.md`
+- `听力模式` → `listening.md`
+- `整理模式` → `curate-inbox.md`
+- `默认模式` → clear the active mode and use `router.md`
 
-If quoted input contains a reusable word, phrase, sentence pattern, or pronunciation target worth long-term study, add a lightweight normalized item to `english-study/inbox.md` after checking for duplicates. Do not classify it into final study-material files during normal lookup.
+A named mode stays active within the current conversation until explicitly switched; it does not carry over to other conversations. In an active mode, subsequent inputs do not require quotation marks. Explicit requests for another task take precedence for that request.
 
-If unquoted input is English, proofread and rephrase it naturally unless the user requests another task.
+Without an active mode: quoted Chinese/English → Lookup; requests to learn → Study; “复习” → Review; “测试” → Test; “听力训练” → Listening; “整理 inbox” → Curate Inbox; otherwise, unquoted English → natural proofreading/rephrasing unless another task is requested.
 
-When GitHub tools are used for a lookup request, the final response must still include the complete translation and English explanation; never return only upload/check status.
+In Lookup Mode, provide complete translation and English explanation, including IPA for words/phrases when appropriate. If reusable material is worth retaining, check `english-study/inbox.md` and append a lightweight normalized item without duplication. Do not classify into final study-material files during normal lookup. Prioritize presenting explanations promptly, then complete any GitHub work. A final lookup answer must retain the full translation and explanation even after GitHub tool calls.
 
-If instructions are clear, do not ask for confirmation.
+Study/review/test primarily use `study-materials/`, the Core/Useful/Specialized tiers, and `english-study/mastery.md`. Update learning state conservatively after meaningful tests.
+
+In Listening Mode, output **only English passages intended to be heard**, without headings, translations, explanations, or commentary.
+
+Never claim to have read files or completed GitHub writes unless confirmed. If the instructions are clear, act without unnecessary confirmation.
