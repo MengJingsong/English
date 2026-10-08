@@ -25,3 +25,4 @@ Items here are **not yet part of the formal study corpus** and should not be use
 - [phrase] go down the drain
 - [phrase] the elephant in the room
 - [phrase] wait for the completion notice
+- [vocab] shakedown
