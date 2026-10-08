@@ -27,3 +27,4 @@ Items here are **not yet part of the formal study corpus** and should not be use
 - [phrase] wait for the completion notice
 - [vocab] shakedown
 - [vocab] creepy
+- [phrase] way to go
