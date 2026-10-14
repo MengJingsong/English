@@ -33,3 +33,4 @@ Items here are **not yet part of the formal study corpus** and should not be use
 - [phrase] check back soon
 - [phrase] limited availability
 - [phrase] terms apply
+- [vocab] cron
