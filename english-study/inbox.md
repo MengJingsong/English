@@ -35,3 +35,4 @@ Items here are **not yet part of the formal study corpus** and should not be use
 - [phrase] terms apply
 - [vocab] cron
 - [vocab] RTO
+- [vocab] confound
