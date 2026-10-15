@@ -36,3 +36,9 @@ Items here are **not yet part of the formal study corpus** and should not be use
 - [vocab] cron
 - [vocab] RTO
 - [vocab] confound
+- [phrase] push back
+- [phrase] null result
+- [phrase] positive control
+- [phrase] pre-register an effect size
+- [phrase] signal-to-noise
+- [phrase] rejection upheld / rejection overturned / inconclusive
