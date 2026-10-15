@@ -42,3 +42,11 @@ Items here are **not yet part of the formal study corpus** and should not be use
 - [phrase] pre-register an effect size
 - [phrase] signal-to-noise
 - [phrase] rejection upheld / rejection overturned / inconclusive
+- [vocab] triage
+- [phrase] hide a false rejection
+- [phrase] rest on a judgement call
+- [phrase] sanity bound
+- [phrase] post hoc
+- [phrase] plausibly bound
+- [phrase] rollover
+- [phrase] cross-reference
