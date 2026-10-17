@@ -51,3 +51,4 @@ Items here are **not yet part of the formal study corpus** and should not be use
 - [phrase] rollover
 - [phrase] cross-reference
 - [phrase] band steering
+- [vocab] doujinshi
